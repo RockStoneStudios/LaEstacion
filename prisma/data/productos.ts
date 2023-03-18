@@ -5,13 +5,13 @@ const productos = [
     {
         nombre: "Bandeja Paisa",
         precio: 14000,
-        imagen: "paisa.png",
+        imagen: "paisa.jpg",
         categoriaId: 1
       },
       {
         nombre: "Sancocho de Gallina",
         precio: 13500,
-        imagen: "sancocho.png",
+        imagen: "sancocho_gallina.jpg",
         categoriaId: 1
       },
       {
@@ -30,25 +30,25 @@ const productos = [
       {
         nombre: "Hamburguesa res con Papas",
         precio: 14000,
-        imagen: "hamburger.png",
+        imagen: "hamburguesa_clasica.jpg",
         categoriaId: 2
       },
       {
         nombre: "Alitas BBQ",
         precio: 11000,
-        imagen: "alitas.png",
+        imagen: "alitas.jpg",
         categoriaId: 2
       },
       {
         nombre: "Hamburguesa pollo con Papas ",
         precio: 16000,
-        imagen: "hamburger.png",
+        imagen: "hamburguesa_pollo.jpg",
         categoriaId: 2
       },
       {
         nombre: "Hamburguesa costilla con Papas",
         precio: 18000,
-        imagen: "hamburgerC.png",
+        imagen: "hamburguesa_costilla.jpg",
         categoriaId: 2
       },
       {
@@ -60,137 +60,137 @@ const productos = [
       {
         nombre: "Salchipapas ",
         precio: 14000,
-        imagen: "donas_06",
-        categoriaId: 4
+        imagen: "salchipapa.jpg",
+        categoriaId: 2
       },
      
       {
         nombre: "Tacos",
         precio: 21000,
-        imagen: "tacos.png",
+        imagen: "tacos.jpg",
         categoriaId: 3
       },
       {
         nombre: "Burritos",
         precio: 18000,
-        imagen: "burritos.png",
+        imagen: "burritos.jpg",
         categoriaId: 3
       },
       {
         nombre: "Quesadillas",
         precio: 26000,
-        imagen: "quesadillas.jpg",
+        imagen: "quesadilla.jpg",
         categoriaId: 3
       },
       {
         nombre: "Enchiladas",
         precio: 29000,
-        imagen: "enchiladas.png",
+        imagen: "enchilada.jpg",
         categoriaId: 3
       },
       
       {
         nombre: "Pizza",
         precio: 12000,
-        imagen: "italianas",
+        imagen: "pizza.jpg",
         categoriaId: 4
       },
       {
         nombre: "Lazaña",
         precio: 15000,
-        imagen: "Lazaña",
+        imagen: "lasagna.jpg",
         categoriaId: 4
       },
       {
         nombre: "Pastas",
         precio: 16000,
-        imagen: "pastas.png",
+        imagen: "pastas.jpg",
         categoriaId: 4
       },
       {
         nombre: "Macarrones con Queso",
         precio: 12000,
-        imagen: "macarrones.png",
+        imagen: "macarrones.jpg",
         categoriaId: 4
       },
       
       {
         nombre: "Coca cola Personal",
         precio: 2500,
-        imagen: "cocacola.png",
+        imagen: "coca_personal.jpg",
         categoriaId: 5
       },
       {
         nombre: "Coca cola 1/4L",
         precio: 4500,
-        imagen: "cocacola.jpg",
+        imagen: "coca_litro_cuarto.jpg",
         categoriaId: 5
       },
       {
         nombre: "Manzana Postobon personal",
         precio: 2500,
-        imagen: "manz_post.png",
+        imagen: "manzana_postobon.jpg",
         categoriaId: 5
       },
       {
         nombre: "Manzana 1/4L",
         precio: 4500,
-        imagen: "manza.png",
+        imagen: "manzana_litro_cuarto.jpg",
         categoriaId: 5
       },
       {
         nombre: "Premio",
         precio: 2500,
-        imagen: "premio.png",
+        imagen: "premio.jpg",
         categoriaId: 5
       },
       {
         nombre: "Jugos Mora",
         precio: 4000,
-        imagen: "jugosM.png",
+        imagen: "mora.jpg",
         categoriaId: 5
       },
       {
         nombre: "Jugo Maracuya",
         precio: 4000,
-        imagen: "jugoMar.jpg",
+        imagen: "maracuya.jpg",
         categoriaId: 5
       },
       {
         nombre: "Jugo Tomate de Arbol",
         precio: 4000,
-        imagen: "jugoTom.jpg",
+        imagen: "tomate_arbol.jpg",
         categoriaId: 5
       },
       {
         nombre: "Jugo de Tamarindo",
         precio: 4000,
-        imagen: "jugoTamrind.png",
+        imagen: "tamarindo.jpg",
         categoriaId: 5
       },
       {
         nombre: "Tequila Shot",
         precio: 4500,
-        imagen: "tequila.png",
+        imagen: "tequila.jpg",
         categoriaId: 6
       },
       {
         nombre: "Aguardiente",
         precio: 3500,
-        imagen: "aguard.png",
+        imagen: "aguardiente.jpg",
         categoriaId: 6
       },
       {
         nombre: "Granizado",
         precio: 5000,
-        imagen: "granizado.png",
+        imagen: "granizado.jpg",
         categoriaId: 6
       },
       {
         nombre: "Soda",
         precio: 2000,
-        imagen: "soda.png",
-        categoriaId: 3
+        imagen: "soda.jpg",
+        categoriaId: 5
       },
      
 ]

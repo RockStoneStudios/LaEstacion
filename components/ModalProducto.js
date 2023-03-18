@@ -27,7 +27,7 @@ const ModalProducto = () => {
               width={300}
               height={400}
               alt= {`Imagen producto ${producto.nombre}`}
-              src={`/assets/img/${producto.imagen}.jpg`}
+              src={`/assets/img/${producto.imagen}`}
              />
             </div>
             <div className="md:w-2/3">

@@ -10,7 +10,7 @@ function Producto({producto}) {
     <div className='border'>
        <div>
        <Image 
-        src={`/assets/img/${imagen}.jpg`}
+        src={`/assets/img/${imagen}`}
         alt= {`Imagen ${nombre}`}
         width= {400}
         height= {500}

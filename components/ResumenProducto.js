@@ -11,7 +11,7 @@ const ResumenProducto = ({producto}) => {
            width={350}
            height={400}
            alt= {`Image producto ${producto.nombre}`}
-           src={`/assets/img/${producto.imagen}.jpg`}
+           src={`/assets/img/${producto.imagen}`}
            className= "rounded-sm"
         />
         </div>
