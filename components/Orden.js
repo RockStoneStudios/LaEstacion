@@ -27,7 +27,7 @@ function Orden({orden}) {
                     <Image 
                     width={400}
                     height= {450} 
-                    src={`/assets/img/${platillo.imagen}.jpg`}
+                    src={`/assets/img/${platillo.imagen}`}
                     alt= {`Imagen Platillo ${platillo.nombre}`}
                     className='rounded-sm'
                     />
